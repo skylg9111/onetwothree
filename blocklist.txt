@@ -982,7 +982,7 @@
 *.avitalion.online
 *.avrenew.com
 *.av-scanner.com
-*.avtoboss163.ru:443
+*.avtoboss163.*
 *.awag-blog.de
 *.awaisghauri.com
 *.awaitspain.com
@@ -1005,7 +1005,7 @@
 *.awsgold.xyz
 *.awsvirtual.xyz
 *.axis-indication.net
-*.axisoflove.org:443
+*.axisoflove.*
 *.ayechecker.com
 *.ayiyas.com
 *.ayobergerak.id
@@ -5688,7 +5688,7 @@
 *.nanfeiqiaowang.com
 *.nanologicinfo.cyou
 *.napellus.xyz
-*.napisat-pismo-gubernatoru.ru:443
+*.napisat-pismo-gubernatoru.*
 *.napus.xyz
 *.narca.net
 *.narudina.com
@@ -6554,7 +6554,7 @@
 *.precisionbevel.com
 *.predator.host
 *.premier-iowa.com
-*.premiumweb.com.ua:443
+*.premiumweb.com.*
 *.presidentialagent.com
 *.prestige-onedr1ve-docc.hostingerapp.com
 *.prettyrose.justdied.com
@@ -6713,7 +6713,7 @@
 *.r0dps.net
 *.r1.panjo.club
 *.r2gttyb5vqu6swf5.onion
-*.r3.panjo.club:7893
+*.r3.panjo.*
 *.r48t.com
 *.raaidboss.com
 *.rabedc.com
@@ -8484,9 +8484,9 @@
 *.update-spread.ddns.net
 *.updates-spread.ddns.net
 *.update-system.cn
-*.update-system.cn:443
+*.update-system.*
 *.updatesystem.website
-*.updatesystem.website:443
+*.updatesystem.*
 *.updateviber.sytes.net
 *.update-wind.com
 *.updatewinlsass.com
@@ -9410,7 +9410,7 @@
 *.yellowlion.*
 *.yesterdayko.com
 *.yfperoliz.webhop.me
-*.ygallerysalonsoho.com:443
+*.ygallerysalonsoho.*
 *.ygfydgxui.com
 *.ygfydgxui.pages.dev
 *.ygfydgxui.tk
