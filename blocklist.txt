@@ -9544,3 +9544,4 @@
 *.zzhreceive.anondns.net
 *.zzhreceive.top
 *.zzhrecieve.anondns.net
+*.107pushh.fun
