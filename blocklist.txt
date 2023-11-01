@@ -9572,5 +9572,5 @@
 *.198-0-244-153-static.hfc.comcastbusiness.net
 *.198-46-140-52.sslip.io
 *.198-46-140-52.sslip.io
-
+*.912caporers.fun
 
