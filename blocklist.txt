@@ -9574,4 +9574,4 @@
 *.198-46-140-52.sslip.io
 *.912caporers.fun
 *.104-168-237-21.*
-*.google.com
+www.google.com
