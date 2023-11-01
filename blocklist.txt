@@ -405,7 +405,6 @@
 *.adjust-local-settings.com
 *.adjustlocalsettings.net
 *.admin.mncoinc.com
-*.admin-gmail.online
 *.adminmabuk103.com
 *.adminsecurity101.com
 *.adminsecurity102.com
@@ -423,7 +422,6 @@
 *.adobeupdate.dns04.com
 *.adobeupdate.net
 *.adobwnf.maelaren.workers.dev
-*.adonilifranky@gmail.com
 *.adoptioperheet.fi
 *.adshow1.dat
 *.adshow2.dat
@@ -674,7 +672,6 @@
 *.annaidroptaxyy.com
 *.annenymus.com
 *.annida.it
-*.annik.diens@gmx.com
 *.announcemnet.zip
 *.anolis.ru
 *.anondns.net
@@ -1240,7 +1237,6 @@
 *.berdonllp.com
 *.beregoaerodro.uno
 *.berendik.top
-*.bergers.o79@gmail.com
 *.berlin-bamboo-bikes.org
 *.berliner-versicherungsvergleich.de
 *.berrowernew.casa
@@ -2019,7 +2015,6 @@
 *.com-ssl.work
 *.com-sslnet.work
 *.com-vps.work
-*.con3003@msgsafe.io
 *.conasmanagement.de
 *.concontactodirecto.com
 *.conditionalcell.com
@@ -2268,7 +2263,6 @@
 *.dak12shub-9.com
 *.daklesa.de
 *.dalailamatrustindia.ddns.net
-*.dalat@keemail.me
 *.daldhillon.com
 *.daluxy.com
 *.daluxy.*
@@ -2588,7 +2582,6 @@
 *.dochlist.hopto.org
 *.dockclock.pro
 *.dockerupdate.anondns.net
-*.docs.gmaildrives.top
 *.docs.googledrives.info
 *.docs.sendspace.buzz
 *.docs.zohopublic.eu
@@ -2838,7 +2831,6 @@
 *.efficientsys.cyou
 *.effortlesspromo.com
 *.efr.dvdstoreshopper.org
-*.eft.era@zaetnas.com
 *.egedemaer.cyou
 *.eglectonk.online
 *.egpu.fr
@@ -2869,7 +2861,6 @@
 *.elimchan.com
 *.elitkeramika-shop.com.ua
 *.ellamaebooks.com
-*.ellershaw.kiley@protonmail.com
 *.elliemaccreative.wordpress.com
 *.elligoes.top
 *.e-loading.biz
@@ -3565,7 +3556,6 @@
 *.gigakolobanga.press
 *.gigicasa.top
 *.gigikilo.xyz
-*.gijs.luys@afcleuven.be
 *.gillnaman.theworkpc.com
 *.gilotriatior.top
 *.gimnodopingo.space
@@ -3607,7 +3597,6 @@
 *.glory76.com
 *.glovercasa.club
 *.glr-ltd.com
-*.glynnaddey@aol.com
 *.gma7im.com
 *.gmaax.in
 *.gmailserverweb.com
@@ -3909,7 +3898,6 @@
 *.help-navers.com
 *.hemki.net
 *.henricekupper.com
-*.henryresult@yandex.com
 *.hensleymarketing.com
 *.hepishopping.com
 *.herbayupro.com
@@ -3983,7 +3971,6 @@
 *.hokkerhurricane.xyz
 *.holdzakreppo.best
 *.hollandmovieg.com
-*.hollman.b@aol.com
 *.holmesservices.mobiledevsite.co
 *.holocine.de
 *.home-blog.dynssl.com
@@ -4254,8 +4241,6 @@
 *.info.kavlabonline.com
 *.info.v-pn.co
 *.info.zz3r0.com
-*.info@beljemi.com
-*.info@vezlon.com
 *.info2638dg43.newip-info.com
 *.info8fvhgl3.urlpush.net
 *.infoadmin.update.huaweiyuncdn.com
@@ -4376,7 +4361,6 @@
 *.j4abq17dqadmb4hz.com
 *.j5sfioue15kxqs.com
 *.jaaphoekzema.nl
-*.jack.ewing@mail.ee
 *.jacksonjoyg.com
 *.jacksonwennik.pw
 *.jacquesgarcianoto.com
@@ -4388,7 +4372,6 @@
 *.jajaelecto.club
 *.jajainfo.net
 *.jakubrybak.com
-*.jaleel.rehman@osaimiengineering.com.sa
 *.jalkapuu.net
 *.jamaguchi.top
 *.jameswilliamspainting.com
@@ -4564,8 +4547,6 @@
 *.kavach.govrn.xyz
 *.kavlabonline.com
 *.kawepotriv.space
-*.kazinbekdutch@protonmail.com
-*.kazinbekdutch@tutanota.com
 *.kbfvzoboss.bid
 *.kdbploxokrocks.uno
 *.kdbrh.com
@@ -4689,7 +4670,6 @@
 *.kompresory-opravy.com
 *.koncept-m.ru
 *.konchitaebuchka.top
-*.konedieyp@airmail.cc
 *.kongmedia.agency
 *.kongsheninsurance.com
 *.konnokaraconfli.club
@@ -4808,7 +4788,6 @@
 *.laugh.toh.info
 *.laugvnipha.club
 *.launchpage.org
-*.laurent.pierre@pilote-seine.fr
 *.lavaandstone.com
 *.lawepofib.cyou
 *.lawernios9248.top
@@ -5037,7 +5016,6 @@
 *.lol.thezone.vip
 *.lollachiro.com
 *.londonkids.in
-*.londonlondon@cock.li
 *.loneeaglerecords.com
 *.lonelover.best
 *.longar.xyz
@@ -5099,7 +5077,6 @@
 *.lutea.xyz
 *.luvbec.com
 *.luvinsburger.fr
-*.luxenburg@tutanota.com
 *.luxmodelagency.com
 *.lwmnsi.dll
 *.lyfterzambija.cyou
@@ -5247,7 +5224,6 @@
 *.martahzz.com
 *.martha-frets-ceramics.nl
 *.martiancartel.*
-*.martin.podrapsky@kentino.com
 *.martinipstudios.com
 *.martinveradesigner.com
 *.maryairbnb.wordpress.com
@@ -5329,7 +5305,6 @@
 *.megaticket.info
 *.meinkontopcypal.top
 *.mekongtelecom.asia
-*.mel.sharp@c21nwr.com
 *.melatallhugoboss.space
 *.melilotus.ru
 *.melissaleiteestetica.com
@@ -5362,7 +5337,6 @@
 *.mernberinfo.tech
 *.meropivedo.xyz
 *.merostomata.ru
-*.merry.lane@mailfence.com
 *.mesajjongeren.nl
 *.mesogonistius.xyz
 *.mesoplano.com
@@ -5387,7 +5361,6 @@
 *.mffatool.ddns.net
 *.mgimalta.com
 *.mhb877.top
-*.mhighsmith@phoenixcommtn.com
 *.micahkoleoso.de
 *.michael-camacho.com
 *.michaelfiegel.com
@@ -5939,7 +5912,6 @@
 *.nonormsinsla.pw
 *.nopogew.com
 *.noprospective.club
-*.noreply.orders-646676522@support.emailinfo.com
 *.normalseason.com
 *.norpol-yachting.com
 *.northkorisla.co
@@ -6025,8 +5997,6 @@
 *.nutriwell.com.sg
 *.nvd.nist.gov
 *.nvisionsigns.com
-*.nwama@hisensetech.ml
-*.nwamalog@hisensetech.ml
 *.nwindow.open
 *.nwwgbluv65j6g0xgr-xk.com
 *.nx2.microware-help.com
@@ -6340,7 +6310,6 @@
 *.pathc.space
 *.patriaheretria.best
 *.patriotcleaning.net
-*.paul@phoenixaerialphoto.com
 *.paulbeebe.*
 *.paulbeebe.*
 *.paulbeebe.*
@@ -6535,7 +6504,6 @@
 *.pootball.getenjoyment.net
 *.pootball.medianewsonline.com
 *.pop.urlovedstuff.com
-*.pop@bals.gq
 *.pop-corps.com
 *.populationrivals.best
 *.porndec143.chickenkiller.com
@@ -6742,7 +6710,6 @@
 *.qwer.boulevardinfohere.com
 *.qwerylebedlake.uno
 *.qwikcoach.com
-*.r.david87@aol.com
 *.r0dps.net
 *.r1.panjo.club
 *.r2gttyb5vqu6swf5.onion
@@ -6763,8 +6730,6 @@
 *.rajoplaca.top
 *.rakonline-ae.com
 *.rakovinnae.website
-*.rakplant@eim.ae
-*.rakplant@emirates.net.ae
 *.ramanujan.edu.in
 *.ramirezprono.com
 *.ramsintl.com
@@ -6986,7 +6951,6 @@
 *.rick845ko-3.com
 *.rick845ko-5.com
 *.rick845ko-6.com
-*.riczel.venegas@nau.edu
 *.ridibunda.xyz
 *.riffenmattgarage.ch
 *.rigagrindex.club
@@ -7391,7 +7355,6 @@
 *.sh1213709.a.had.su
 *.sh78bug.xyz
 *.shabal.space
-*.shabbir.hasan@shakautos.com
 *.shabbought.info
 *.shabihere.com
 *.shadebarandgrillorlando.com
@@ -7993,7 +7956,6 @@
 *.tchernia-conseil.fr
 *.tcjst.com
 *.tcostream.dhcp.biz
-*.tcprx@tutanota.de
 *.tcvsat.com
 *.teaboxes.pw
 *.teachskate.com
@@ -8254,7 +8216,6 @@
 *.toyotacamryy.com
 *.toysbagonline.com
 *.toysbagonline.*
-*.tpant@phoenixgroupflorida.com
 *.tpc2snch0g7njxjq.com
 *.tprs-servers.eu
 *.track.positiverefreshment.org
@@ -8411,7 +8372,6 @@
 *.tyrefolo.cyou
 *.tyrek87.cyou
 *.tyvasolo.club
-*.tzftx@protonmail.ch
 *.tzn.nu
 *.u01.msoftserver.eu
 *.u02.msoftserver.eu
@@ -8435,7 +8395,6 @@
 *.udm.dns05.com
 *.udomain.mrbonus.com
 *.udomaincom.dynamic-dns.net
-*.uenwonken@memail.com
 *.ufovidmag.com
 *.ugolkuzjaspace.website
 *.uhq943.com
@@ -8935,7 +8894,6 @@
 *.wildboarcontest.com
 *.willder.xyz
 *.willhouseforus.top
-*.williamslucy570@gmail.com
 *.willizoo.website
 *.wilpplaowio9.com
 *.wilverhampton.club
@@ -9013,11 +8971,8 @@
 *.word-update.site
 *.word-web.gotdns.ch
 *.workan.ddns.net
-*.worker400@airmail.cc
 *.workerspickuper.club
-*.workhelp500@secmail.pro
 *.worknigger.best
-*.workplus111@protonmail.com
 *.worktrs.wikaba.com
 *.workusb.ddns.net
 *.worldhomeoutlet.com
@@ -9470,8 +9425,6 @@
 *.youprocontact.uk
 *.yourclub1.com
 *.yourcosmicbeing.com
-*.yourdata@recoverygroup.at
-*.yourfiles1@cock.li
 *.yourhappyevents.fr
 *.yournextshoes.com
 *.yourpro.top
