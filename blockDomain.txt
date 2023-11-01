@@ -1,1 +1,1 @@
-zuerich-umzug.ch
+*.zuerich-umzug.*
